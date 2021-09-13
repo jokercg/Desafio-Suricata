@@ -1,0 +1,59 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.nav-link{
+  text-align: right;
+}
+.logo-imagen{
+  max-height: 50px;
+}
+.fondo-rosa{
+  background-color: #e83e8c;
+}
+.container-fluid{
+  width: 75%;
+  margin: 0 auto;
+}
+.centrado{
+  font-size: 0.75em;
+  text-align: center;
+}
+h1{
+  font-size: 5.75em;
+  font-weight: bold;
+  color: gray;
+  padding: 4%;
+  ;
+}
+.card{
+  text-align: center;
+  display:inline-block;
+  margin: 0 50px;
+}
+.Menus{
+  padding: 10%;
+}
+.icons-section{
+  color: white;
+  font-size: 5.5em;
+  background-color: #17a2b8;
+  padding: 10px;
+}
+.izquierda{
+  vertical-align: middle;
+
+}
+.iconos{
+  text-align: right;
+
+
+}
+h2{
+  font-size: 0.55em;
+  font-weight: bold;
+}
+.logo-footer{
+  max-height: 100px;
+
+
+}
